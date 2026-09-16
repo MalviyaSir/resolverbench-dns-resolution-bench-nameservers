@@ -1,0 +1,41 @@
+{
+  "id": 71,
+  "category": "pc-utility",
+  "slug": "dns-resolution-bench",
+  "target": "DNS configuration",
+  "appid": null,
+  "summaryRu": "Проект сравнения времени разрешения пользовательских доменов без автоматической смены DNS.",
+  "features": [
+    "User-supplied domain set",
+    "Resolver timing report",
+    "Configuration baseline record"
+  ],
+  "title": "ResolverBench — DNS configuration — Nameservers",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "ResolverBench",
+  "repositoryName": "resolverbench-dns-resolution-bench-nameservers",
+  "githubTopics": [
+    "dns-configuration",
+    "dns",
+    "dns-benchmark",
+    "resolver-comparison",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "nameservers"
+}
